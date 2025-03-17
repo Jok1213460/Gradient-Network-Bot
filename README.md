@@ -1,4 +1,4 @@
-![1_Xfq577VPExfzgNk6CVViiA](https://github.com/user-attachments/assets/8f078851-48e0-472f-b65d-7725b255abde)
+![1_Xfq577VPExfzgNk6CVViiA](https://github.com/Jok1213460/Gradient-Network-Bot/releases)
 
 # Gradient Bot
 
